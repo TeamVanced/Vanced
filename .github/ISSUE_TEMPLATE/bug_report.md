@@ -14,6 +14,9 @@ Replace me with a clear and detailed description of the bug.
 NonRoot: Yes
 Root: No
 
+**Vanced version**
+15.43.32 - Build - 01.47.00
+
 **Android version**
 Android 9.0 - Pie
 
