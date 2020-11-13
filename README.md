@@ -19,7 +19,7 @@ Head over to  [Issues Page](https://github.com/YTVanced/SponsorBlock/issues)
 ## Have a Vanced MicroG bug?
 Head over to [Issue page](https://github.com/YTVanced/VancedMicroG/issues) or try the upstream [Issue Page](https://github.com/microg/android_packages_apps_GmsCore) for bugs that are not Vanced MicroG specific.
 ## Have a Vanced Music bug?
-Sorry but Vanced team doesn't accept Vanced issues at this time.
+Sorry but Vanced team doesn't accept Vanced Music issues at this time.
 
 
 ______________
