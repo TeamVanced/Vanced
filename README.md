@@ -2,7 +2,7 @@
 The purpose of this repo is to help you find your way around.
 #
 
-### Make sure you look through the issues pages to check for a issue already open that describes your problem or idea and give it a thumbs up reaction instead of opening a duplicate issue.
+### Make sure you look through the issues pages to check for a issue already open that describes your problem or idea and give it a thumbs up reaction and add a comment instead of opening a duplicate issue.
 #
 ## Have a Vanced bug?
 Head over to [Issues Page](https://github.com/YTVanced/Vanced/issues), create a new issue and put `[Bug]` tag as a title prefix
