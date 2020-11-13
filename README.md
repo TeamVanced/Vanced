@@ -6,7 +6,7 @@ ___
 ___
 ## Have a Vanced bug?
 Head over to [Issues Page](https://github.com/YTVanced/Vanced/issues), create a new issue and put `[Bug]` tag as a title prefix
-#
+
 ## Have a ideas for Vanced?
 Head over to [Issues Page](https://github.com/YTVanced/Vanced/issues), create a new issue and put `[Idea]` tag as a title prefix
 ___
