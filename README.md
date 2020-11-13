@@ -13,7 +13,7 @@ ___
 ## Have a Manager bug?
 Head over to [Issues Page](https://github.com/YTVanced/VancedManager/issues)
 ___
-## Have a idea or features request for our sponsorblock implementation?
+## Have a idea or features request for our SponsorBlock implementation?
 Head over to  [Issues Page](https://github.com/YTVanced/SponsorBlock/issues)
 ___
 ## Have a Vanced MicroG bug?
