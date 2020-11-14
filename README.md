@@ -1,5 +1,5 @@
 # Vanced Issue Center <a href="https://vancedapp.com"><img src="https://vancedapp.com/static/media/logo.90a40cae.svg" alt="YouTube Vanced" align="right" height="200"/></a>
-The purpose of this repo is to help you find your way around.
+> The purpose of this repo is to help you find your way around.
 ___
 
 #### Make sure you look through the issues pages to check for a issue already open that describes your problem or idea and give it a thumbs up reaction and add a comment instead of opening a duplicate issue.
