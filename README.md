@@ -4,7 +4,7 @@ ___
 
 #### Make sure you look through the issues pages to check for a issue already open that describes your problem or idea and give it a thumbs up reaction and add a comment instead of opening a duplicate issue.
 ___
-<img src="https://cdn.discordapp.com/emojis/724333860598579290.png" alt="Vanced" height="55" align="left"></a>
+<a href="https://vancedapp.com"><img src="https://cdn.discordapp.com/emojis/724333860598579290.png" alt="Vanced" height="55" align="left"></a>
 ## For Vanced
 ### Have a Vanced bug?
 Head over to [Issues Page](https://github.com/YTVanced/Vanced/issues), create a new issue and put `[Bug]` tag as a title prefix
