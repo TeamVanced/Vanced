@@ -18,6 +18,7 @@ ___
 ## Have a Vanced MicroG bug?
 Head over to [Issue Page](https://github.com/YTVanced/VancedMicroG/issues) or try the upstream [Issue Page](https://github.com/microg/android_packages_apps_GmsCore) for bugs that are not Vanced MicroG specific.
 ___
+<img src="https://cdn.discordapp.com/emojis/771642079318638603.png" alt="Vanced SponsorBlock" height="70" align="left"></a>
 ## Have a Vanced Music bug?
 Sorry but Vanced team doesn't accept Vanced Music issues at this time.
 ___
