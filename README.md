@@ -10,13 +10,13 @@ Head over to [Issues Page](https://github.com/YTVanced/Vanced/issues), create a 
 ## Have a ideas for Vanced?
 Head over to [Issues Page](https://github.com/YTVanced/Vanced/issues), create a new issue and put `[Idea]` tag as a title prefix
 ___
-## Have a Manager bug? <a href="https://github.com/YTVanced/VancedManager"><img src="https://cdn.discordapp.com/emojis/727995382012837898.png" alt="Vanced Manager" align="left" height="60" ></a>
+## Have a Manager bug? <a href="https://github.com/YTVanced/VancedManager"><img src="https://cdn.discordapp.com/emojis/727995382012837898.png" alt="Vanced Manager" align="left" height="70" ></a>
 Head over to [Issues Page](https://github.com/YTVanced/VancedManager/issues)
 ___
 ## Have a idea or features request for our SponsorBlock implementation?
 Head over to  [Issues Page](https://github.com/YTVanced/SponsorBlock/issues)
 ___
-<a href="https://github.com/YTVanced/VancedMicroG"><img src="https://cdn.discordapp.com/emojis/739533000609628191.png" alt="Vanced MicroG" height="65" align="left" ></a>
+<a href="https://github.com/YTVanced/VancedMicroG"><img src="https://cdn.discordapp.com/emojis/739533000609628191.png" alt="Vanced MicroG" height="75" align="left" ></a>
 ## Have a Vanced MicroG bug?
 Head over to [Issue Page](https://github.com/YTVanced/VancedMicroG/issues) or try the upstream [Issue Page](https://github.com/microg/android_packages_apps_GmsCore) for bugs that are not Vanced MicroG specific.
 ___
