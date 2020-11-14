@@ -23,6 +23,7 @@ Sorry but Vanced team doesn't accept Vanced Music issues at this time.
 
 
 ______________
+#### our repo pages
 <a href="https://github.com/YTVanced/VancedManager"><img src="https://cdn.discordapp.com/attachments/548867094259826700/776976540709683210/heg66sp79znyf12gmbtg.png" height="75"></a>
 <a href="https://github.com/YTVanced/SponsorBlock"><img src="https://cdn.discordapp.com/attachments/548867094259826700/776979672264474644/LogoSponsorBlockSimple256px.png" height="65" align="top"></a>
 ________
