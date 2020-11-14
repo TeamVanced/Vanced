@@ -28,7 +28,6 @@ Head over to  [Issues Page](https://github.com/YTVanced/SponsorBlock/issues)
 ______________
 #### Our Repo Pages
 
-<a href="https://github.com/YTVanced/SponsorBlock"><img src="https://cdn.discordapp.com/attachments/548867094259826700/776979672264474644/LogoSponsorBlockSimple256px.png" alt="Vanced SponsorBlock" height="65" align="top"></a>
 ________
 |
 |
