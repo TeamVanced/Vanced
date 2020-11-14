@@ -21,7 +21,8 @@ ___
 ## Have a Vanced Music bug?
 Sorry but Vanced team doesn't accept Vanced Music issues at this time.
 ___
-## Have a features request for our SponsorBlock implementation? <a href="https://github.com/YTVanced/SponsorBlock"><img src="https://cdn.discordapp.com/attachments/548867094259826700/776979672264474644/LogoSponsorBlockSimple256px.png" alt="Vanced SponsorBlock" height="70" align="left"></a>
+<a href="https://github.com/YTVanced/SponsorBlock"><img src="https://cdn.discordapp.com/attachments/548867094259826700/776979672264474644/LogoSponsorBlockSimple256px.png" alt="Vanced SponsorBlock" height="70" align="left"></a>
+## Have a features request for our SponsorBlock implementation?
 Head over to  [Issues Page](https://github.com/YTVanced/SponsorBlock/issues)
 
 ________
