@@ -4,10 +4,11 @@ ___
 
 #### Make sure you look through the issues pages to check for a issue already open that describes your problem or idea and give it a thumbs up reaction and add a comment instead of opening a duplicate issue.
 ___
-## Have a Vanced bug?
+## For Vanced
+### Have a Vanced bug?
 Head over to [Issues Page](https://github.com/YTVanced/Vanced/issues), create a new issue and put `[Bug]` tag as a title prefix
 
-## Have a ideas for Vanced?
+### Have a ideas for Vanced?
 Head over to [Issues Page](https://github.com/YTVanced/Vanced/issues), create a new issue and put `[Idea]` tag as a title prefix
 ___
 <a href="https://github.com/YTVanced/VancedManager"><img src="https://cdn.discordapp.com/emojis/727995382012837898.png" alt="Vanced Manager" align="left" height="75" ></a>
