@@ -1,4 +1,4 @@
-# Vanced Issue Center <img src="https://vancedapp.com/static/media/logo.90a40cae.svg" alt="YouTube Vanced" align="right"/>
+# Vanced Issue Center <img src="https://vancedapp.com/static/media/logo.90a40cae.svg" alt="YouTube Vanced" align="right" height="200"/>
 The purpose of this repo is to help you find your way around.
 ___
 
@@ -23,7 +23,9 @@ Sorry but Vanced team doesn't accept Vanced Music issues at this time.
 
 
 ______________
+<a href="">https://github.com/YTVanced/VancedManager<img src="https://cdn.discordapp.com/attachments/548867094259826700/776976540709683210/heg66sp79znyf12gmbtg.png" height="75"></a>
 
+________
 |
 |
 Don't Forget to thank me 😉
