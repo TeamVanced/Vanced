@@ -29,7 +29,8 @@ ___
 Head over to  [Issues Page](https://github.com/YTVanced/SponsorBlock/issues)
 
 ________
-|
-|
-Don't Forget to thank me 😉
--gghhkm
+
+
+
+
+>- Guide created by gghhkm
