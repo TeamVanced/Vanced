@@ -1,4 +1,4 @@
-# Vanced Issue Center <a href="https://vancedapp.com"><img src="https://cdn.discordapp.com/attachments/361807727531393026/777037250717417472/724333860598579290.png" alt="YouTube Vanced" align="right" height="100"/></a>
+# Vanced Issue Center <a href="https://vancedapp.com"><img src="https://cdn.discordapp.com/attachments/361807727531393026/777037250717417472/724333860598579290.png" alt="YouTube Vanced" align="right" height="145"/></a>
 The purpose of this repo is to help you find your way around.
 ___
 
