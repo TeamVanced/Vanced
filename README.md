@@ -2,7 +2,7 @@
 The purpose of this repo is to help you find your way around.
 ___
 
-### Make sure you look through the issues pages to check for a issue already open that describes your problem or idea and give it a thumbs up reaction and add a comment instead of opening a duplicate issue.
+#### Make sure you look through the issues pages to check for a issue already open that describes your problem or idea and give it a thumbs up reaction and add a comment instead of opening a duplicate issue.
 ___
 ## Have a Vanced bug?
 Head over to [Issues Page](https://github.com/YTVanced/Vanced/issues), create a new issue and put `[Bug]` tag as a title prefix
@@ -23,7 +23,7 @@ Sorry but Vanced team doesn't accept Vanced Music issues at this time.
 
 
 ______________
-#### our repo pages
+##### our repo pages
 <a href="https://github.com/YTVanced/VancedManager"><img src="https://cdn.discordapp.com/attachments/548867094259826700/776976540709683210/heg66sp79znyf12gmbtg.png" alt="Vanced Manager" height="75"></a>
 <a href="https://github.com/YTVanced/SponsorBlock"><img src="https://cdn.discordapp.com/attachments/548867094259826700/776979672264474644/LogoSponsorBlockSimple256px.png" alt="Vanced SponsorBlock" height="65" align="top"></a>
 <a href="https://github.com/YTVanced/VancedMicroG"><img src="https://cdn.discordapp.com/attachments/548867094259826700/776983684305780776/MicroG.png" alt="Vanced MicroG" height="80" ></a>
