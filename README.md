@@ -1,4 +1,4 @@
-# Vanced Issue Center <img src="https://vancedapp.com/static/media/logo.90a40cae.svg" alt="YouTube Vanced" align="right" height="200"/>
+# Vanced Issue Center <a href="https://vancedapp.com"><img src="https://vancedapp.com/static/media/logo.90a40cae.svg" alt="YouTube Vanced" align="right" height="200"/></a>
 The purpose of this repo is to help you find your way around.
 ___
 
