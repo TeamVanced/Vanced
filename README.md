@@ -1,5 +1,5 @@
 # Vanced Issue Center 
-The purpose of this repo is to help you find your way around.
+>The purpose of this repo is to help you find your way around.
 ___
 
 #### Make sure you look through the issues pages to check for a issue already open that describes your problem or idea and give it a thumbs up reaction and add a comment instead of opening a duplicate issue.
