@@ -10,7 +10,7 @@ Head over to [Issues Page](https://github.com/YTVanced/Vanced/issues), create a 
 ## Have a ideas for Vanced?
 Head over to [Issues Page](https://github.com/YTVanced/Vanced/issues), create a new issue and put `[Idea]` tag as a title prefix
 ___
-## Have a Manager bug? <a href="https://github.com/YTVanced/VancedManager"><img src="https://cdn.discordapp.com/emojis/727995382012837898.png" alt="Vanced Manager" align="left" height="70" ></a>
+## Have a Manager bug? <a href="https://github.com/YTVanced/VancedManager"><img src="https://cdn.discordapp.com/emojis/727995382012837898.png" alt="Vanced Manager" align="left" height="65" ></a>
 Head over to [Issues Page](https://github.com/YTVanced/VancedManager/issues)
 ___
 ## Have a idea or features request for our SponsorBlock implementation?
