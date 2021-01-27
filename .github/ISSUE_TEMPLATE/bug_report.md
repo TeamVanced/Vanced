@@ -7,15 +7,16 @@ assignees: ''
 
 ---
 
+<!-- MANAGER/MICROG/VANCED MUSIC ISSUES DO NOT BELONG HERE, READ THE README FOR MORE INFO -->
+
 **Bug description**
 Replace me with a clear and detailed description of the bug.
 
 **Variant**
-NonRoot: Yes
-Root: No
+Non-Root/Root
 
 **Vanced version**
-15.43.32 - Build - 01.47.00
+16.02.35 - Build - 01.47.00
 
 **Android version**
 Android 9.0 - Pie
