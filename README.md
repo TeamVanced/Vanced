@@ -2,7 +2,7 @@
 > ###### The purpose of this repo is to help you find your way around.
 ___
 
-#### Make sure you look through the issues pages to check for a issue already open that describes your problem or idea and give it a thumbs up reaction and add a comment instead of opening a duplicate issue.
+#### Make sure to look through the existing issues to check if your problem was already reported before opening your issue!
 
 #### Note that issues related to Vanced Manager, Vanced MicroG or Vanced Music do not belong here. You can find more info below.
 ___
@@ -11,7 +11,7 @@ ___
 ### Have a Vanced bug?
 Head over to the [Issues Page](https://github.com/YTVanced/Vanced/issues), create a new issue and put the `[Bug]` tag as a title prefix
 
-### Have a ideas for Vanced?
+### Have an idea for Vanced?
 Head over to the [Issues Page](https://github.com/YTVanced/Vanced/issues), create a new issue and put the `[Idea]` tag as a title prefix
 ___
 <a href="https://github.com/YTVanced/VancedManager"><img src="https://cdn.discordapp.com/emojis/727995382012837898.png" alt="Vanced Manager" align="left" height="70" ></a>
