@@ -37,7 +37,8 @@ ________
 A logcat is a log of all your system messages. This includes a lot of debug information and also any errors that might have occurred. This info can be very useful for developers in some cases.
 
 We might ask you for one in which case you simply need to follow this guide. Please don't use your own method or a random app as that will most likely not help us. Use one of the following two methods:
-#### Creating a logcat using the Android Debug Bridge (adb) on your PC
+___
+### Creating a logcat using the Android Debug Bridge (adb) on your PC
 The Android Debug Bridge (adb) is a really useful tool to interface with your phone from a Terminal on your PC. In this case we will use it to create a logcat.
 You will first have to enable USB Debugging on your phone:
 - Enable Developer Options. You can do so by going to `Settings > About Phone` and tapping Build Number 7 times
@@ -51,13 +52,15 @@ Now all that's left is to create the actual logcat:
 - Run `.\adb shell logcat *:W > logcat.txt`. (Omit the `.\` if you're using Mac/Linux) Don't worry if this prints nothing, thats how it is supposed to be since we're redirecting all output into a text file
 - Now do the steps necessary to cause your issue
 - Finally, close your Terminal. Now you're done, your logcat can be found in the adb folder
-#### Creating a logcat using Termux on your rooted Android
+___
+### Creating a logcat using Termux on your rooted Android
 - Install Termux [from the Google Play Store](https://play.google.com/store/apps/details?id=com.termux)
 - Open it and run the command `su` and accept the SuperUser prompt to grant Termux root
 - Run `logcat *:W > /sdcard/logcat.txt`. Don't worry if this prints nothing, thats how it is supposed to be since we're redirecting all output into a text file
 - Now do the steps necessary to cause your issue
 - Finally, close Termux. Now you're done, your logcat can be found in the root of your sdcard (the location where you'll also find your Downloads, etc)
+___
 
-### Guide Contributors
+## Guide Contributors
 - gghhkm
 - Vendicated
