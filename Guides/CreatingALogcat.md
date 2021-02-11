@@ -29,7 +29,7 @@ You can technically create a logcat with only your phone and no root, but this w
 
 ### Creating a logcat using adb on your PC
 
-- Run the following adb command. Unless you added adb to PATH, add a `.\` before the command. Having issues? Check the [Guide](./SettingUpAdb.md#Getting%20started%20using%20adb)
+- Run the following adb command. Unless you added adb to PATH, add a `.\` before the command. Having issues? Check [our adb setup Guide](./SettingUpAdb.md#getting-started-using-adb)
 
 ```bash
 adb shell logcat -c
