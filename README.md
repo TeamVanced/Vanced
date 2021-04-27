@@ -52,7 +52,7 @@ ___
 
 ## Vanced Guides
 
-Useful guides like how to set up adb or how to create a logcat can be found [here](./Guides)
+Useful guides like how to set up adb or how to create a logcat can be found [here](https://play.google.com/store/apps/details?id=com.vanced.faq)
 
 ___
 
