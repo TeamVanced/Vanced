@@ -1,24 +1,24 @@
 # Vanced Issue Center
 
-The purpose of this repo is to help you find your way around
+The purpose of this repo is to help you find your way around.
 
 Make sure to look through the existing issues to check if your problem was already reported before opening your issue!
 
-Note that issues related to Vanced Manager, Vanced MicroG or Vanced Music do not belong here. You can find more info below.
+Note that issues related to Vanced Manager, Vanced MicroG, or Vanced Music do not belong here. You can find more info below.
 
 ___
 
-<a href="https://vancedapp.com"><img src="https://cdn.discordapp.com/emojis/833709207056154634.png?v=1" alt="Vanced" height="75" align="left"></a>
+<a href="https://vancedapp.com"><img src="https://imgur.com/qVxhZQB.png" alt="Vanced" height="75" align="left"></a>
 
 ## For Vanced
 
 ### Have a Vanced bug?
 
-Head over to the [Issues Page](https://github.com/YTVanced/Vanced/issues), create a new issue and put the `[Bug]` tag as a title prefix
+Head over to the [Issues Page](https://github.com/YTVanced/Vanced/issues), create a new issue, and put the `[Bug]` tag as a title prefix
 
 ### Have an idea for Vanced?
 
-Head over to the [Issues Page](https://github.com/YTVanced/Vanced/issues), create a new issue and put the `[Idea]` tag as a title prefix
+Head over to the [Issues Page](https://github.com/YTVanced/Vanced/issues), create a new issue, and put the `[Idea]` tag as a title prefix
 ___
 
 <a href="https://github.com/YTVanced/VancedManager"><img src="https://imgur.com/6jcpF4k.png" alt="Vanced Manager" align="left" height="75" ></a>
@@ -39,10 +39,10 @@ ___
 
 ## Have a Vanced Music bug?
 
-Sorry but we don't provide support for Vanced Music at this time as it is only a side project. Unless your bug breaks the main functionality, it will most likely not be fixed
+Sorry, but we don't provide support for Vanced Music at this time as it is only a side project. Unless your bug breaks the main functionality, it will most likely not be fixed.
 ___
 
-<a href="https://github.com/YTVanced/SponsorBlock"><img src="https://cdn.discordapp.com/attachments/548867094259826700/776979672264474644/LogoSponsorBlockSimple256px.png" alt="Vanced SponsorBlock" height="65" align="left"></a>
+<a href="https://github.com/YTVanced/SponsorBlock"><img src="https://imgur.com/y0pmZb9.png" alt="Vanced SponsorBlock" height="65" align="left"></a>
 
 ## Have a features request for our SponsorBlock implementation?
 
