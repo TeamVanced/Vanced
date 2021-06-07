@@ -35,7 +35,7 @@ ___
 Head over to the [Vanced MicroG Issues Page](https://github.com/YTVanced/VancedMicroG/issues)
 ___
 
-<img src="https://i.imgur.com/1mFBH0i.png" alt="Vanced Music" height="65" align="left"></a>
+<img src="https://i.imgur.com/A5rpurp.png" alt="Vanced Music" height="65" align="left"></a>
 
 ## Have a Vanced Music bug?
 
