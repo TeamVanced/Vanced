@@ -16,13 +16,13 @@ Replace me with a clear and detailed description of the bug.
 Non-Root/Root
 
 **Vanced version**
-16.02.35 - Build - 01.47.00
+Replace me with the exact version of vanced you are using. It is mandatory to report issues from the latest available versions only. For example, v16.16.38
 
 **Android version**
-Android 9.0 - Pie
+Replace me with the version of Android your device have. For example, Android 11 
 
 **Device**
-Samsung Galaxy S8
+Replace with the name of the device on which you faced the bug. For example, Samsung Galaxy S8
 
 **Steps to Reproduce**
 Steps to reproduce the error:
@@ -34,4 +34,4 @@ Steps to reproduce the error:
 Replace me with a description of what you expected should happen and what happened instead.
 
 
-_Attach images/videos if possible. These can be helpful in solving the issue._
+_Attach images or videos or logcats in case of crashes if possible. These can be helpful in solving the issue._
