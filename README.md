@@ -52,7 +52,11 @@ ___
 
 ## Vanced Guides
 
-Useful guides like how to set up adb or how to create a logcat can be found [here](https://play.google.com/store/apps/details?id=com.vanced.faq)
+- Vanced troubleshooting can be found [here](https://telegra.ph/Troubleshooting-for-vanced-03-19)
+- Vanced FAQ can be found [here](https://telegra.ph/Vanced-FAQ-08-31)
+- Vanced installation guide can be found [here](https://telegra.ph/Installation-for-Vanced-09-01)
+- Useful guides like how to set up adb or how to create a logcat can be found [here](https://telegra.ph/Bug-Reports-10-17)
+
 
 ___
 
