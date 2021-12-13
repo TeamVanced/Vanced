@@ -18,6 +18,9 @@ Non-Root/Root
 **Vanced version**
 Replace me with the exact version of vanced you are using. It is mandatory to report issues from the latest available versions only. For example, v16.16.38
 
+**Link used to download vanced**
+Replace here with the source/link you used to download and install on your device. 
+
 **Android version**
 Replace me with the version of Android your device have. For example, Android 11 
 
