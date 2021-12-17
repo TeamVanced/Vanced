@@ -1,3 +1,8 @@
+### DISCLAIMER:  
+‼️ **DO NOT ASK FOR VIDEO DOWNLOADER FEATURE OR UNLOCK HIGHER QUALITY VIDEO DOWNLOADS IN YOUTUBE VANCED.**‼️ Subscribe to YouTube Premium instead. Any issues opened in respect of this will be closed instantly without second thoughts.
+
+___
+
 # Vanced Issue Center
 
 The purpose of this repo is to help you find your way around.
