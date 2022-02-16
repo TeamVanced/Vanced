@@ -70,3 +70,10 @@ ___
 - [gghhkm](https://github.com/gghhkm)
 - [Vendicated](https://github.com/Vendicated)
 - [Milind Goel](https://github.com/milindgoel15)
+
+___
+
+## BSDiff Tools
+
+- To use these you must have a copy of a v1 vanced api "apks" folder of the version you want make diffs of and run the python script from there
+- Before you run the script move the root/Theme stock and dpi apk to your working directory, delete the hash.json file and run the "generate_base_apk.sh" script to make a compatible base apk
