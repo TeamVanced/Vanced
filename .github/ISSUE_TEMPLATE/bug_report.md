@@ -43,4 +43,4 @@ Replace here with a description of what you expected should happen and what happ
 Replace here with the screenshot of the bug or provide screen recording for proper debugging.
 
 
-_Attach images or videos or logcats in case of crashes if possible. These can help solve the issue._
+_Attach logcats in case of crashes by uploading them to pastebin or katbin if possible. These can help solve the issue._
