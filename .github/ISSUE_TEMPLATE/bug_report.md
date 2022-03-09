@@ -30,7 +30,7 @@ Replace here with the version of Android your device have. For example, Android 
 **Device:**
 Replace with the name of the device on which you faced the bug. For example, Samsung Galaxy S8
 
-**Steps to Reproduce**
+**Steps to Reproduce:**
 Steps to reproduce the error:
 1. Open the app
 2. Click on '....'
@@ -39,7 +39,7 @@ Steps to reproduce the error:
 **Expected behaviour:**
 Replace here with a description of what you expected should happen and what happened instead.
 
-**Screen recording/screenshot of the bug**
+**Screen recording/screenshot of the bug:**
 Replace here with the screenshot of the bug or provide screen recording for proper debugging.
 
 
