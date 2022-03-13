@@ -13,7 +13,7 @@ Note that issues related to Vanced Manager, Vanced MicroG, or Vanced Music do no
 
 ___
 
-<a href="https://vancedapp.com"><img src="https://imgur.com/qVxhZQB.png" alt="Vanced" height="75" align="left"></a>
+<a href="https://vancedapp.com"></a>
 
 ## For Vanced
 
@@ -26,7 +26,7 @@ Head over to the [Issues Page](https://github.com/YTVanced/Vanced/issues), creat
 Head over to the [Issues Page](https://github.com/YTVanced/Vanced/issues), create a new issue, and put the `[Idea]` tag as a title prefix
 ___
 
-<a href="https://github.com/YTVanced/VancedManager"><img src="https://imgur.com/6jcpF4k.png" alt="Vanced Manager" align="left" height="75" ></a>
+<a href="https://github.com/YTVanced/VancedManager"></a>
 
 ## Have a Manager bug?
 
@@ -40,7 +40,7 @@ ___
 Head over to the [Vanced MicroG Issues Page](https://github.com/YTVanced/VancedMicroG/issues)
 ___
 
-<img src="https://i.imgur.com/A5rpurp.png" alt="Vanced Music" height="65" align="left"></a>
+</a>
 
 ## Have a Vanced Music bug?
 
