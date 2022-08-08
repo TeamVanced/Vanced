@@ -1,3 +1,11 @@
+## DISCONTINUATION OF THE VANCED PROJECT
+
+Vanced has been discontinued in the month of march 2022. Since then we have removed all download links but our Discord server, Telegram chat and subreddit will stay. The reasons for the discontinuation can be found here: https://telegra.ph/Vanced-Discontinuation-03-19
+
+We request you all to please not create issues regarding feature requests, general bug reports. However, if you have issues regarding installation or common issues, check out our troubleshooting or FAQ for solutions.
+
+___
+
 ### DISCLAIMER:  
 ‼️ **DO NOT ASK FOR VIDEO DOWNLOADER FEATURE OR UNLOCK HIGHER QUALITY VIDEO DOWNLOADS IN VANCED.**‼️ Subscribe to YouTube Premium instead. Any issues opened in respect of this will be closed instantly without second thoughts.
 
